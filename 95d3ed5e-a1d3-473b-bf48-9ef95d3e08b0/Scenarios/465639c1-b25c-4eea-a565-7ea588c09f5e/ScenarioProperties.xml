@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<cScenarioProperties xmlns:d="http://www.kuju.com/TnT/2003/Delta" d:version="1.0" d:id="132813514">
+<cScenarioProperties xmlns:d="http://www.kuju.com/TnT/2003/Delta" d:version="1.0" d:id="54385628">
 	<ID>
 		<cGUID>
 			<UUID>
@@ -100,7 +100,7 @@
 	<HasRollingStart d:type="bool">0</HasRollingStart>
 	<LoadedFromRollingStart d:type="bool">0</LoadedFromRollingStart>
 	<FrontEndDriverList>
-		<sDriverFrontEndDetails d:id="272953296">
+		<sDriverFrontEndDetails d:id="204383080">
 			<ServiceName>
 				<Localisation-cUserLocalisedString>
 					<English d:type="cDeltaString">Service1</English>
@@ -112,37 +112,12 @@
 					<Polish d:type="cDeltaString"></Polish>
 					<Russian d:type="cDeltaString"></Russian>
 					<Other/>
-					<Key d:type="cDeltaString">ab38c46f-c5fc-4af4-b773-3d3d28576dc6</Key>
+					<Key d:type="cDeltaString">03764539-cc80-41d3-a970-3107b265f650</Key>
 				</Localisation-cUserLocalisedString>
 			</ServiceName>
 			<LocoName>
 				<Localisation-cUserLocalisedString>
-					<English d:type="cDeltaString">SNCF TGV® Duplex</English>
-					<French d:type="cDeltaString">TGV® Duplex SNCF</French>
-					<Italian d:type="cDeltaString"></Italian>
-					<German d:type="cDeltaString">SNCF TGV® Duplex</German>
-					<Spanish d:type="cDeltaString">TGV Duplex de SNCF</Spanish>
-					<Dutch d:type="cDeltaString"></Dutch>
-					<Polish d:type="cDeltaString">SNCF TGV® Duplex</Polish>
-					<Russian d:type="cDeltaString">SNCF TGV® Duplex</Russian>
-					<Other/>
-					<Key d:type="cDeltaString">1c34d170-f778-4397-8d66-fa898f3f670d</Key>
-				</Localisation-cUserLocalisedString>
-			</LocoName>
-			<LocoBP>
-				<iBlueprintLibrary-cAbsoluteBlueprintID>
-					<BlueprintSetID>
-						<iBlueprintLibrary-cBlueprintSetID>
-							<Provider d:type="cDeltaString">DTG</Provider>
-							<Product d:type="cDeltaString">LGVMedSouth</Product>
-						</iBlueprintLibrary-cBlueprintSetID>
-					</BlueprintSetID>
-					<BlueprintID d:type="cDeltaString">RailVehicles\Electric\TGV_Duplex_Carmillon\PowerCar\Engine\TGV_Duplex_Carmillion_PowerCar_A.xml</BlueprintID>
-				</iBlueprintLibrary-cAbsoluteBlueprintID>
-			</LocoBP>
-			<StartLocation>
-				<Localisation-cUserLocalisedString>
-					<English d:type="cDeltaString"></English>
+					<English d:type="cDeltaString">Class 365 Great Northern AP</English>
 					<French d:type="cDeltaString"></French>
 					<Italian d:type="cDeltaString"></Italian>
 					<German d:type="cDeltaString"></German>
@@ -151,28 +126,119 @@
 					<Polish d:type="cDeltaString"></Polish>
 					<Russian d:type="cDeltaString"></Russian>
 					<Other/>
-					<Key d:type="cDeltaString">771878c9-e08b-4a25-8e33-9f10b903e012</Key>
+					<Key d:type="cDeltaString">56bd111b-a587-448b-baa1-464623508d0e</Key>
+				</Localisation-cUserLocalisedString>
+			</LocoName>
+			<LocoBP>
+				<iBlueprintLibrary-cAbsoluteBlueprintID>
+					<BlueprintSetID>
+						<iBlueprintLibrary-cBlueprintSetID>
+							<Provider d:type="cDeltaString">RSC</Provider>
+							<Product d:type="cDeltaString">ECMLS</Product>
+						</iBlueprintLibrary-cBlueprintSetID>
+					</BlueprintSetID>
+					<BlueprintID d:type="cDeltaString">RailVehicles\Electric\Class365\Class365\GN_AP\Class365_DMOC_B.xml</BlueprintID>
+				</iBlueprintLibrary-cAbsoluteBlueprintID>
+			</LocoBP>
+			<StartLocation>
+				<Localisation-cUserLocalisedString>
+					<English d:type="cDeltaString">North Tallon Marketplace A</English>
+					<French d:type="cDeltaString"></French>
+					<Italian d:type="cDeltaString"></Italian>
+					<German d:type="cDeltaString"></German>
+					<Spanish d:type="cDeltaString"></Spanish>
+					<Dutch d:type="cDeltaString"></Dutch>
+					<Polish d:type="cDeltaString"></Polish>
+					<Russian d:type="cDeltaString"></Russian>
+					<Other/>
+					<Key d:type="cDeltaString">a8c815fe-5c3b-4d49-8b8a-88b544b08f87</Key>
 				</Localisation-cUserLocalisedString>
 			</StartLocation>
 			<LocoClass d:type="cDeltaString">LOCO_CLASS_ELECTRIC</LocoClass>
-			<LocoAuthor d:type="cDeltaString">DTG</LocoAuthor>
-			<FilePath d:type="cDeltaString">DTG\LGVMedSouth\RailVehicles\Electric\TGV_Duplex_Carmillon\PowerCar\Engine</FilePath>
-			<Longitude d:type="sFloat64" d:alt_encoding="0080D25C4851183F" d:precision="string">9.27639e-005</Longitude>
-			<Latitude d:type="sFloat64" d:alt_encoding="EC8C2B96E2475B3F" d:precision="string">0.00166509</Latitude>
+			<LocoAuthor d:type="cDeltaString">RSC</LocoAuthor>
+			<FilePath d:type="cDeltaString">RSC\ECMLS\RailVehicles\Electric\Class365\Class365\GN_AP</FilePath>
+			<Longitude d:type="sFloat64" d:alt_encoding="00B0F9E5E76F543F" d:precision="string">0.00124738</Longitude>
+			<Latitude d:type="sFloat64" d:alt_encoding="7C5F97C0FC949DBF" d:precision="string">-0.0288887</Latitude>
+			<Height d:type="sFloat32" d:alt_encoding="00000080122B2C40" d:precision="string">14.0841</Height>
+			<PlayerDriver d:type="bool">0</PlayerDriver>
+		</sDriverFrontEndDetails>
+		<sDriverFrontEndDetails d:id="204381244">
+			<ServiceName>
+				<Localisation-cUserLocalisedString>
+					<English d:type="cDeltaString">Service2</English>
+					<French d:type="cDeltaString"></French>
+					<Italian d:type="cDeltaString"></Italian>
+					<German d:type="cDeltaString"></German>
+					<Spanish d:type="cDeltaString"></Spanish>
+					<Dutch d:type="cDeltaString"></Dutch>
+					<Polish d:type="cDeltaString"></Polish>
+					<Russian d:type="cDeltaString"></Russian>
+					<Other/>
+					<Key d:type="cDeltaString">2ed94a68-c0a2-41d0-ae2f-cae68cc1f8c2</Key>
+				</Localisation-cUserLocalisedString>
+			</ServiceName>
+			<LocoName>
+				<Localisation-cUserLocalisedString>
+					<English d:type="cDeltaString">Class 319 Thameslink White</English>
+					<French d:type="cDeltaString"></French>
+					<Italian d:type="cDeltaString"></Italian>
+					<German d:type="cDeltaString"></German>
+					<Spanish d:type="cDeltaString"></Spanish>
+					<Dutch d:type="cDeltaString"></Dutch>
+					<Polish d:type="cDeltaString"></Polish>
+					<Russian d:type="cDeltaString"></Russian>
+					<Other/>
+					<Key d:type="cDeltaString">5891a222-8d21-4bc4-9db3-86077d263f0c</Key>
+				</Localisation-cUserLocalisedString>
+			</LocoName>
+			<LocoBP>
+				<iBlueprintLibrary-cAbsoluteBlueprintID>
+					<BlueprintSetID>
+						<iBlueprintLibrary-cBlueprintSetID>
+							<Provider d:type="cDeltaString">AP</Provider>
+							<Product d:type="cDeltaString">Class319Pack01</Product>
+						</iBlueprintLibrary-cBlueprintSetID>
+					</BlueprintSetID>
+					<BlueprintID d:type="cDeltaString">RailVehicles\Electric\Class 319\TLWhite\DTCO\Class_319_DTCO_PRM.xml</BlueprintID>
+				</iBlueprintLibrary-cAbsoluteBlueprintID>
+			</LocoBP>
+			<StartLocation>
+				<Localisation-cUserLocalisedString>
+					<English d:type="cDeltaString">North Tallon Central Low Level P1</English>
+					<French d:type="cDeltaString"></French>
+					<Italian d:type="cDeltaString"></Italian>
+					<German d:type="cDeltaString"></German>
+					<Spanish d:type="cDeltaString"></Spanish>
+					<Dutch d:type="cDeltaString"></Dutch>
+					<Polish d:type="cDeltaString"></Polish>
+					<Russian d:type="cDeltaString"></Russian>
+					<Other/>
+					<Key d:type="cDeltaString">0d2402a9-b9b6-4d35-88f9-a6e5a668f77b</Key>
+				</Localisation-cUserLocalisedString>
+			</StartLocation>
+			<LocoClass d:type="cDeltaString">LOCO_CLASS_ELECTRIC</LocoClass>
+			<LocoAuthor d:type="cDeltaString">AP</LocoAuthor>
+			<FilePath d:type="cDeltaString">AP\Class319Pack01\RailVehicles\Electric\Class 319\TLWhite\DTCO</FilePath>
+			<Longitude d:type="sFloat64" d:alt_encoding="000040C84D51183F" d:precision="string">9.27643e-005</Longitude>
+			<Latitude d:type="sFloat64" d:alt_encoding="3EC28B814267573F" d:precision="string">0.00142843</Latitude>
 			<Height d:type="sFloat32" d:alt_encoding="00000060C0AAFC3F" d:precision="string">1.79169</Height>
 			<PlayerDriver d:type="bool">0</PlayerDriver>
 		</sDriverFrontEndDetails>
 	</FrontEndDriverList>
 	<RequiredSet>
-		<iBlueprintLibrary-cBlueprintSetID d:id="136228542">
-			<Provider d:type="cDeltaString">DTG</Provider>
-			<Product d:type="cDeltaString">LGVMedSouth</Product>
+		<iBlueprintLibrary-cBlueprintSetID d:id="226574218">
+			<Provider d:type="cDeltaString">AP</Provider>
+			<Product d:type="cDeltaString">Class319Pack01</Product>
+		</iBlueprintLibrary-cBlueprintSetID>
+		<iBlueprintLibrary-cBlueprintSetID d:id="226574220">
+			<Provider d:type="cDeltaString">RSC</Provider>
+			<Product d:type="cDeltaString">ECMLS</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
 	</RequiredSet>
 	<Gizmo>
-		<cOwnedEntity d:id="137757728">
+		<cOwnedEntity d:id="65110446">
 			<Component>
-				<cEditorSceneryRender d:id="136146582">
+				<cEditorSceneryRender d:id="194196552">
 					<DetailLevel d:type="sInt32">10</DetailLevel>
 					<Global d:type="bool">0</Global>
 					<Saved d:type="bool">1</Saved>
@@ -180,16 +246,16 @@
 					<Palette1Index d:type="sUInt8">234</Palette1Index>
 					<Palette2Index d:type="sUInt8">45</Palette2Index>
 				</cEditorSceneryRender>
-				<cPosOri d:id="137756874">
+				<cPosOri d:id="64821794">
 					<Scale d:numElements="4" d:elementType="sFloat32" d:precision="string">1.0000000 1.0000000 1.0000000 0.0000000</Scale>
 					<RFarMatrix>
-						<cFarMatrix d:id="137756880">
+						<cFarMatrix d:id="64821800">
 							<Height d:type="sFloat32" d:alt_encoding="000000000000E03F" d:precision="string">0.5</Height>
 							<RXAxis d:numElements="4" d:elementType="sFloat32" d:precision="string">1.0000000 0.0000000 0.0000000 0.0000000</RXAxis>
 							<RYAxis d:numElements="4" d:elementType="sFloat32" d:precision="string">0.0000000 1.0000000 0.0000000 0.0000000</RYAxis>
 							<RZAxis d:numElements="4" d:elementType="sFloat32" d:precision="string">0.0000000 0.0000000 1.0000000 0.0000000</RZAxis>
 							<RFarPosition>
-								<cFarVector2 d:id="137756887">
+								<cFarVector2 d:id="64821807">
 									<X>
 										<cFarCoordinate>
 											<RouteCoordinate>
@@ -223,7 +289,7 @@
 						</cFarMatrix>
 					</RFarMatrix>
 				</cPosOri>
-				<cScriptComponent d:id="134116864">
+				<cScriptComponent d:id="141804154">
 					<DebugDisplay d:type="bool">1</DebugDisplay>
 					<StateName d:type="cDeltaString"></StateName>
 				</cScriptComponent>
@@ -268,31 +334,92 @@
 	<Author d:type="cDeltaString"></Author>
 	<DispatcherVersion d:type="cDeltaString">V1</DispatcherVersion>
 	<RBlueprintSetPreLoad>
-		<iBlueprintLibrary-cBlueprintSetID d:id="32117236">
+		<iBlueprintLibrary-cBlueprintSetID d:id="34727204">
 			<Provider d:type="cDeltaString">AP</Provider>
 			<Product d:type="cDeltaString">Class319Pack01</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="32117238">
+		<iBlueprintLibrary-cBlueprintSetID d:id="34727206">
 			<Provider d:type="cDeltaString">SP202D</Provider>
 			<Product d:type="cDeltaString">OHLE</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="32117240">
+		<iBlueprintLibrary-cBlueprintSetID d:id="34727208">
 			<Provider d:type="cDeltaString">AP</Provider>
 			<Product d:type="cDeltaString">C450EP</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="32117242">
+		<iBlueprintLibrary-cBlueprintSetID d:id="34727210">
 			<Provider d:type="cDeltaString">DTG</Provider>
 			<Product d:type="cDeltaString">PortsmouthDirect</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
 	</RBlueprintSetPreLoad>
-	<NamedEntity/>
+	<NamedEntity>
+		<cScenarioProperties-cGuidToNameMapping d:id="292304282">
+			<Guid>
+				<cGUID>
+					<UUID>
+						<e d:type="sUInt64">5515015301769044912</e>
+						<e d:type="sUInt64">12050845628089490582</e>
+					</UUID>
+					<DevString d:type="cDeltaString">78c9a3b0-4532-4c89-96dc-572940343da7</DevString>
+				</cGUID>
+			</Guid>
+			<Name d:type="cDeltaString">NTCLLP1</Name>
+		</cScenarioProperties-cGuidToNameMapping>
+		<cScenarioProperties-cGuidToNameMapping d:id="227230338">
+			<Guid>
+				<cGUID>
+					<UUID>
+						<e d:type="sUInt64">5149565464721549977</e>
+						<e d:type="sUInt64">17860925653500012713</e>
+					</UUID>
+					<DevString d:type="cDeltaString">b058ea99-ee81-4776-a9a8-872840c1def7</DevString>
+				</cGUID>
+			</Guid>
+			<Name d:type="cDeltaString">NTCLLP2</Name>
+		</cScenarioProperties-cGuidToNameMapping>
+		<cScenarioProperties-cGuidToNameMapping d:id="292307846">
+			<Guid>
+				<cGUID>
+					<UUID>
+						<e d:type="sUInt64">5424896899445169856</e>
+						<e d:type="sUInt64">15643508869986288277</e>
+					</UUID>
+					<DevString d:type="cDeltaString">da8c1ec0-1afc-4b49-9582-34346fe818d9</DevString>
+				</cGUID>
+			</Guid>
+			<Name d:type="cDeltaString">NTMA</Name>
+		</cScenarioProperties-cGuidToNameMapping>
+		<cScenarioProperties-cGuidToNameMapping d:id="292307714">
+			<Guid>
+				<cGUID>
+					<UUID>
+						<e d:type="sUInt64">5070020269899152288</e>
+						<e d:type="sUInt64">9515831155940978819</e>
+					</UUID>
+					<DevString d:type="cDeltaString">c75e7ba0-5492-465c-83f0-74f004060f84</DevString>
+				</cGUID>
+			</Guid>
+			<Name d:type="cDeltaString">NTMB</Name>
+		</cScenarioProperties-cGuidToNameMapping>
+		<cScenarioProperties-cGuidToNameMapping d:id="292304666">
+			<Guid>
+				<cGUID>
+					<UUID>
+						<e d:type="sUInt64">4712765580992655484</e>
+						<e d:type="sUInt64">4016276451280558250</e>
+					</UUID>
+					<DevString d:type="cDeltaString">9cc1307c-1b53-4167-aa18-583e27aebc37</DevString>
+				</cGUID>
+			</Guid>
+			<Name d:type="cDeltaString">NTSA</Name>
+		</cScenarioProperties-cGuidToNameMapping>
+	</NamedEntity>
 	<Condition/>
 	<DeferredEvent/>
 	<CheckedCondition/>
 	<CareerRules>
 		<d:nil/>
 	</CareerRules>
-	<MD5 d:type="cDeltaString">F87D3DAA8BA34FD4BE72089D8E6E4257</MD5>
+	<MD5 d:type="cDeltaString">93720E6A8BC3F7A57CC0C9036AD008C0</MD5>
 	<MessageEvent/>
 	<SimpleControlsOnly d:type="bool">0</SimpleControlsOnly>
 	<ExpertControlsOnly d:type="bool">0</ExpertControlsOnly>
