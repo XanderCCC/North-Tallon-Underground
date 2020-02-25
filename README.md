@@ -7,9 +7,13 @@ Change log
 V0.05
 
 -Extended track with gradients set
+
 -Next station rough foundation
+
 -Began terminus walls and roof
+
 ?possibly fixed platform approach signals
+
 __________________________________________
 
 V0.04
