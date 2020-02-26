@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<cRouteProperties xmlns:d="http://www.kuju.com/TnT/2003/Delta" d:version="1.0" d:id="133407292">
+<cRouteProperties xmlns:d="http://www.kuju.com/TnT/2003/Delta" d:version="1.0" d:id="140884170">
 	<ID>
 		<cGUID>
 			<UUID>
@@ -119,9 +119,9 @@
 	<LockCounter d:type="sUInt32">1</LockCounter>
 	<Locked d:type="bool">0</Locked>
 	<MapProjection>
-		<cMapProjectionOwner d:id="31694028">
+		<cMapProjectionOwner d:id="34457496">
 			<MapProjection>
-				<cUTMMapProjection d:id="137505078">
+				<cUTMMapProjection d:id="144141158">
 					<Origin>
 						<sGeoPosition>
 							<Lat d:type="sFloat64" d:alt_encoding="0000000000000000" d:precision="string">0</Lat>
@@ -141,73 +141,81 @@
 		</cMapProjectionOwner>
 	</MapProjection>
 	<RBlueprintSetPreLoad>
-		<iBlueprintLibrary-cBlueprintSetID d:id="50511068">
+		<iBlueprintLibrary-cBlueprintSetID d:id="243907946">
 			<Provider d:type="cDeltaString">DTG</Provider>
 			<Product d:type="cDeltaString">GoblinLine</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="50511070">
+		<iBlueprintLibrary-cBlueprintSetID d:id="243907948">
 			<Provider d:type="cDeltaString">DTG</Provider>
 			<Product d:type="cDeltaString">NorthLondonLine</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="50511072">
+		<iBlueprintLibrary-cBlueprintSetID d:id="243907950">
 			<Provider d:type="cDeltaString">DTG</Provider>
 			<Product d:type="cDeltaString">FifeCircle</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="50511074">
+		<iBlueprintLibrary-cBlueprintSetID d:id="243907952">
 			<Provider d:type="cDeltaString">RSC</Provider>
 			<Product d:type="cDeltaString">ECMLS</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="50511076">
+		<iBlueprintLibrary-cBlueprintSetID d:id="243907954">
 			<Provider d:type="cDeltaString">AP</Provider>
 			<Product d:type="cDeltaString">C365EP</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="50511078">
+		<iBlueprintLibrary-cBlueprintSetID d:id="243907956">
 			<Provider d:type="cDeltaString">Jake Fuller</Provider>
 			<Product d:type="cDeltaString">VMSSignalPack</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="50511080">
+		<iBlueprintLibrary-cBlueprintSetID d:id="243907958">
 			<Provider d:type="cDeltaString">JustTrains</Provider>
 			<Product d:type="cDeltaString">LULibrary</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="50511082">
+		<iBlueprintLibrary-cBlueprintSetID d:id="243907960">
 			<Provider d:type="cDeltaString">JustTrains</Provider>
 			<Product d:type="cDeltaString">CommonLibrary</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="50511084">
+		<iBlueprintLibrary-cBlueprintSetID d:id="243907962">
 			<Provider d:type="cDeltaString">JustTrains</Provider>
 			<Product d:type="cDeltaString">MetLine</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="50511086">
+		<iBlueprintLibrary-cBlueprintSetID d:id="243907964">
 			<Provider d:type="cDeltaString">JustTrains</Provider>
 			<Product d:type="cDeltaString">ModernObjects</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="50511088">
+		<iBlueprintLibrary-cBlueprintSetID d:id="243907966">
 			<Provider d:type="cDeltaString">JustTrains</Provider>
 			<Product d:type="cDeltaString">IPA</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="50511090">
+		<iBlueprintLibrary-cBlueprintSetID d:id="243907968">
 			<Provider d:type="cDeltaString">JustTrains</Provider>
 			<Product d:type="cDeltaString">S_StockMarkers</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="50511092">
+		<iBlueprintLibrary-cBlueprintSetID d:id="243907970">
 			<Provider d:type="cDeltaString">RSC</Provider>
 			<Product d:type="cDeltaString">UKLEDsignals01</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="50511094">
+		<iBlueprintLibrary-cBlueprintSetID d:id="243907972">
 			<Provider d:type="cDeltaString">SP202D</Provider>
 			<Product d:type="cDeltaString">OHLE</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="50511096">
+		<iBlueprintLibrary-cBlueprintSetID d:id="243907974">
 			<Provider d:type="cDeltaString">Kuju</Provider>
 			<Product d:type="cDeltaString">RailSimulator</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="50511098">
+		<iBlueprintLibrary-cBlueprintSetID d:id="243907976">
 			<Provider d:type="cDeltaString">Thomson</Provider>
 			<Product d:type="cDeltaString">WCMLTrentValley</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="50511100">
+		<iBlueprintLibrary-cBlueprintSetID d:id="243907978">
 			<Provider d:type="cDeltaString">DTG</Provider>
 			<Product d:type="cDeltaString">LGVMedSouth</Product>
+		</iBlueprintLibrary-cBlueprintSetID>
+		<iBlueprintLibrary-cBlueprintSetID d:id="243907980">
+			<Provider d:type="cDeltaString">DTG</Provider>
+			<Product d:type="cDeltaString">LondonGillingham</Product>
+		</iBlueprintLibrary-cBlueprintSetID>
+		<iBlueprintLibrary-cBlueprintSetID d:id="243907982">
+			<Provider d:type="cDeltaString">RSC</Provider>
+			<Product d:type="cDeltaString">KentHighSpeed</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
 	</RBlueprintSetPreLoad>
 	<AuthoredLanguage d:type="cDeltaString">en</AuthoredLanguage>
