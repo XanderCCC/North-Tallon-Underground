@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<cRouteProperties xmlns:d="http://www.kuju.com/TnT/2003/Delta" d:version="1.0" d:id="140884170">
+<cRouteProperties xmlns:d="http://www.kuju.com/TnT/2003/Delta" d:version="1.0" d:id="139116620">
 	<ID>
 		<cGUID>
 			<UUID>
@@ -119,9 +119,9 @@
 	<LockCounter d:type="sUInt32">1</LockCounter>
 	<Locked d:type="bool">0</Locked>
 	<MapProjection>
-		<cMapProjectionOwner d:id="34457496">
+		<cMapProjectionOwner d:id="138738714">
 			<MapProjection>
-				<cUTMMapProjection d:id="144141158">
+				<cUTMMapProjection d:id="141186188">
 					<Origin>
 						<sGeoPosition>
 							<Lat d:type="sFloat64" d:alt_encoding="0000000000000000" d:precision="string">0</Lat>
@@ -141,81 +141,81 @@
 		</cMapProjectionOwner>
 	</MapProjection>
 	<RBlueprintSetPreLoad>
-		<iBlueprintLibrary-cBlueprintSetID d:id="243907946">
+		<iBlueprintLibrary-cBlueprintSetID d:id="48842130">
 			<Provider d:type="cDeltaString">DTG</Provider>
 			<Product d:type="cDeltaString">GoblinLine</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="243907948">
+		<iBlueprintLibrary-cBlueprintSetID d:id="48842132">
 			<Provider d:type="cDeltaString">DTG</Provider>
 			<Product d:type="cDeltaString">NorthLondonLine</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="243907950">
+		<iBlueprintLibrary-cBlueprintSetID d:id="48842134">
 			<Provider d:type="cDeltaString">DTG</Provider>
 			<Product d:type="cDeltaString">FifeCircle</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="243907952">
+		<iBlueprintLibrary-cBlueprintSetID d:id="48842136">
 			<Provider d:type="cDeltaString">RSC</Provider>
 			<Product d:type="cDeltaString">ECMLS</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="243907954">
+		<iBlueprintLibrary-cBlueprintSetID d:id="48842138">
 			<Provider d:type="cDeltaString">AP</Provider>
 			<Product d:type="cDeltaString">C365EP</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="243907956">
+		<iBlueprintLibrary-cBlueprintSetID d:id="48842140">
 			<Provider d:type="cDeltaString">Jake Fuller</Provider>
 			<Product d:type="cDeltaString">VMSSignalPack</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="243907958">
+		<iBlueprintLibrary-cBlueprintSetID d:id="48842142">
 			<Provider d:type="cDeltaString">JustTrains</Provider>
 			<Product d:type="cDeltaString">LULibrary</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="243907960">
+		<iBlueprintLibrary-cBlueprintSetID d:id="48842144">
 			<Provider d:type="cDeltaString">JustTrains</Provider>
 			<Product d:type="cDeltaString">CommonLibrary</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="243907962">
+		<iBlueprintLibrary-cBlueprintSetID d:id="48842146">
 			<Provider d:type="cDeltaString">JustTrains</Provider>
 			<Product d:type="cDeltaString">MetLine</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="243907964">
+		<iBlueprintLibrary-cBlueprintSetID d:id="48842148">
 			<Provider d:type="cDeltaString">JustTrains</Provider>
 			<Product d:type="cDeltaString">ModernObjects</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="243907966">
+		<iBlueprintLibrary-cBlueprintSetID d:id="48842150">
 			<Provider d:type="cDeltaString">JustTrains</Provider>
 			<Product d:type="cDeltaString">IPA</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="243907968">
+		<iBlueprintLibrary-cBlueprintSetID d:id="48842152">
 			<Provider d:type="cDeltaString">JustTrains</Provider>
 			<Product d:type="cDeltaString">S_StockMarkers</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="243907970">
-			<Provider d:type="cDeltaString">RSC</Provider>
-			<Product d:type="cDeltaString">UKLEDsignals01</Product>
-		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="243907972">
+		<iBlueprintLibrary-cBlueprintSetID d:id="48842154">
 			<Provider d:type="cDeltaString">SP202D</Provider>
 			<Product d:type="cDeltaString">OHLE</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="243907974">
+		<iBlueprintLibrary-cBlueprintSetID d:id="48842156">
 			<Provider d:type="cDeltaString">Kuju</Provider>
 			<Product d:type="cDeltaString">RailSimulator</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="243907976">
+		<iBlueprintLibrary-cBlueprintSetID d:id="48842158">
 			<Provider d:type="cDeltaString">Thomson</Provider>
 			<Product d:type="cDeltaString">WCMLTrentValley</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="243907978">
+		<iBlueprintLibrary-cBlueprintSetID d:id="48842160">
 			<Provider d:type="cDeltaString">DTG</Provider>
 			<Product d:type="cDeltaString">LGVMedSouth</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="243907980">
+		<iBlueprintLibrary-cBlueprintSetID d:id="48842162">
 			<Provider d:type="cDeltaString">DTG</Provider>
 			<Product d:type="cDeltaString">LondonGillingham</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="243907982">
-			<Provider d:type="cDeltaString">RSC</Provider>
-			<Product d:type="cDeltaString">KentHighSpeed</Product>
+		<iBlueprintLibrary-cBlueprintSetID d:id="48842164">
+			<Provider d:type="cDeltaString">Jamesclass37</Provider>
+			<Product d:type="cDeltaString">Stop Markers</Product>
+		</iBlueprintLibrary-cBlueprintSetID>
+		<iBlueprintLibrary-cBlueprintSetID d:id="48842166">
+			<Provider d:type="cDeltaString">Jamesclass37</Provider>
+			<Product d:type="cDeltaString">Animated Gateline Pack</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
 	</RBlueprintSetPreLoad>
 	<AuthoredLanguage d:type="cDeltaString">en</AuthoredLanguage>
